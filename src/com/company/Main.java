@@ -8,6 +8,7 @@ public class Main {
 
         PrintArray.arrayPrinter(var1);
         PrintArray.arrayPrinter(var2);
+        System.out.println("Generics");
     }
 }
 
